@@ -20,7 +20,7 @@ http://localhost/lab9_php_modular/
 Membuat file baru dengan nama `footer.php`
 Membuat file baru dengan nama `home.php`
 Membuat file baru dengan nama `about.php`
-Hasilnya modular
+Hasilnya modularisasi menggunakan Require
 ![Step7](SS/ss3.png)<br>
 '''
 
